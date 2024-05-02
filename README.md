@@ -1,0 +1,2 @@
+# Gemini clone
+ "Welcome to Gemini AI Clone – a sleek, modern implementation of an AI-powered chat interface built using React! This project aims to replicate the intuitive conversational experience of Gemini AI while utilizing the power of React for dynamic and responsive user interactions. Explore the codebase, contribute, or integrate it into your own projects. Let's redefine chat interfaces together!"
